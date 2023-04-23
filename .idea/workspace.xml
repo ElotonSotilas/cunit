@@ -4,28 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca4dda54-e605-4841-b27e-b3cd7ea6d699" name="Changes" comment="Merged all parts together">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cached_rates.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/converter/cunit/JfxController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/converter/cunit/JfxMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/converter/cunit/rest/CurrencyLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dev/converter/cunit/About.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dev/converter/cunit/MainView.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dev/converter/cunit/choicebox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dev/converter/cunit/listview.css" afterDir="false" />
+    <list default="true" id="ca4dda54-e605-4841-b27e-b3cd7ea6d699" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/converter/cunit/JfxController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/converter/cunit/JfxController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/converter/cunit/JfxMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/converter/cunit/JfxMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +35,9 @@
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="tuc8tv87" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -100,8 +86,16 @@
       <option name="presentableId" value="Default" />
       <updated>1682246552141</updated>
       <workItem from="1682246553216" duration="8269000" />
-      <workItem from="1682270728091" duration="1356000" />
+      <workItem from="1682270728091" duration="5555000" />
     </task>
+    <task id="LOCAL-00001" summary="Merged all parts together">
+      <created>1682272251659</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682272251659</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

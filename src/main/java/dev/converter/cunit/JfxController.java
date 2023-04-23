@@ -24,9 +24,14 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class JfxController implements Initializable {
+    // JavaFX elements
+    @FXML
     public Separator Separator1;
+    @FXML
     public Separator Separator11;
+    @FXML
     public Label myLabel;
+    @FXML
     public Label myLabel4;
     @FXML
     private TextField myTextField1, myTextField2;
@@ -226,6 +231,7 @@ public class JfxController implements Initializable {
 
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
+        // Get all currencies into the ObservableLists and sort alphabetically
         try (Stream<String> lines = Files.lines(Paths.get("cached_rates.txt"))){
             currencyOptions = lines
                     .filter(line -> line.length() >= 3)
