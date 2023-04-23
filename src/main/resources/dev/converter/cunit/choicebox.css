@@ -1,0 +1,9 @@
+.choice-box {
+    -fx-pref-width: 273;
+    -fx-selection-bar:rgb(136, 164, 124) ;
+    -fx-selection-bar-non-focused: rgb(136, 164, 124) ;
+}
+
+.choice-box .context-menu {
+    -fx-pref-width: 273;
+}

@@ -1,0 +1,4 @@
+.list-view {
+    -fx-selection-bar:rgb(136, 164, 124) ;
+    -fx-selection-bar-non-focused: rgb(136, 164, 124) ;
+}
