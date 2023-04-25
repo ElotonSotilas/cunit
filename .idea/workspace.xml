@@ -1,14 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca4dda54-e605-4841-b27e-b3cd7ea6d699" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/dev.converter.cunit/dev/converter/cunit/JfxController.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/dev.converter.cunit/dev/converter/cunit/JfxMain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/dev.converter.cunit/dev/converter/cunit/class-use/JfxController.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/dev.converter.cunit/dev/converter/cunit/class-use/JfxMain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/dev.converter.cunit/dev/converter/cunit/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/dev.converter.cunit/dev/converter/cunit/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/dev.converter.cunit/dev/converter/cunit/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/dev.converter.cunit/dev/converter/cunit/rest/CurrencyLoader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/dev.converter.cunit/dev/converter/cunit/rest/class-use/CurrencyLoader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/dev.converter.cunit/dev/converter/cunit/rest/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/dev.converter.cunit/dev/converter/cunit/rest/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/dev.converter.cunit/dev/converter/cunit/rest/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/dev.converter.cunit/module-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-3.6.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/search-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/converter/cunit/JfxController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/converter/cunit/JfxController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/converter/cunit/JfxMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/converter/cunit/JfxMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +135,8 @@
       <option name="presentableId" value="Default" />
       <updated>1682246552141</updated>
       <workItem from="1682246553216" duration="8269000" />
-      <workItem from="1682270728091" duration="5555000" />
+      <workItem from="1682270728091" duration="5767000" />
+      <workItem from="1682431933637" duration="243000" />
     </task>
     <task id="LOCAL-00001" summary="Merged all parts together">
       <created>1682272251659</created>
@@ -95,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682272251659</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update: added report">
+      <created>1682277926596</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682277926596</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +161,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Merged all parts together" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merged all parts together" />
+    <MESSAGE value="Update: added report" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: added report" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

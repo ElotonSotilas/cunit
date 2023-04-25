@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dev.converter.cunit.rest","l":"CurrencyLoader"},{"p":"dev.converter.cunit","l":"JfxController"},{"p":"dev.converter.cunit","l":"JfxMain"}];updateSearchResults();
